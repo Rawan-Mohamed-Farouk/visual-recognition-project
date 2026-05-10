@@ -1,0 +1,57 @@
+{
+  "input_root": "C:\\Users\\Khale\\OneDrive\\Desktop\\medical\\data\\balanced_raw",
+  "output_root": "C:\\Users\\Khale\\OneDrive\\Desktop\\medical\\data\\balanced_100",
+  "target_per_class": 100,
+  "seed": 42,
+  "classes": [
+    {
+      "class": "cap",
+      "input_count": 32,
+      "kept_originals": 32,
+      "generated": 68,
+      "output_count": 100
+    },
+    {
+      "class": "face_mask",
+      "input_count": 32,
+      "kept_originals": 32,
+      "generated": 68,
+      "output_count": 100
+    },
+    {
+      "class": "face_shield",
+      "input_count": 32,
+      "kept_originals": 32,
+      "generated": 68,
+      "output_count": 100
+    },
+    {
+      "class": "gloves",
+      "input_count": 32,
+      "kept_originals": 32,
+      "generated": 68,
+      "output_count": 100
+    },
+    {
+      "class": "goggles",
+      "input_count": 32,
+      "kept_originals": 32,
+      "generated": 68,
+      "output_count": 100
+    },
+    {
+      "class": "gown",
+      "input_count": 32,
+      "kept_originals": 32,
+      "generated": 68,
+      "output_count": 100
+    },
+    {
+      "class": "shoe_cover",
+      "input_count": 32,
+      "kept_originals": 32,
+      "generated": 68,
+      "output_count": 100
+    }
+  ]
+}
